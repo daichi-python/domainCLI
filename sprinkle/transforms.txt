@@ -1,0 +1,10 @@
+{{ .otherWord }}
+{{ .otherWord }}
+{{ .otherWord }}
+{{ .otherWord }}
+get{{ .otherWord }}
+go{{ .otherWord }}
+lets{{ .otherWord }}
+{{ .otherWord }}app
+{{ .otherWord }}site
+{{ .otherWord }}time
